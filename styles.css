@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+html{
+    background-image: url("image/greenpotatoes.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+
+body {
+	background-color: #BA9DAD;
+	background:url("file:///html-site4/imageimagegreenpotatoes.jpg") top left repeat; 
+}
+
+p {
+	padding: 4cm 8cm 6cm 7cm;
+	font-weight: 18em;
+	font-family: monospace;
+	color: yellow;
+	/*
+		Yes, I know, my eyes are horrible, that is why the font is so big.
+		p.s. this was not auto ipsum-generated.
+    */
+	font-size: 2em;
+}
